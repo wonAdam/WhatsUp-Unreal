@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ehdgu\\Dev\\WhatsUp-Unreal\\BattleRoyale\\Source\\BattleRoyale\\BattleRoyale.Build.cs",
+		"C:\\Users\\ehdgu\\Dev\\WhatsUp-Unreal\\BattleRoyale\\Source\\BattleRoyale.Target.cs",
+		"C:\\Users\\ehdgu\\Dev\\WhatsUp-Unreal\\BattleRoyale\\Source\\BattleRoyaleEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

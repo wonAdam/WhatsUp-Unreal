@@ -1,0 +1,15 @@
+C:\Users\ehdgu\Dev\WhatsUp-Unreal\PuzzlePlatform\Intermediate\Build\Win64\UE4Editor\DebugGame\PuzzlePlatform\Definitions.PuzzlePlatform.h
+C:\Users\ehdgu\Dev\WhatsUp-Unreal\PuzzlePlatform\Source\PuzzlePlatform\PuzzlePlatformGameMode.h
+C:\UE-4.27.2-release\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\UE-4.27.2-release\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\UE-4.27.2-release\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\UE-4.27.2-release\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\ehdgu\Dev\WhatsUp-Unreal\PuzzlePlatform\Intermediate\Build\Win64\UE4Editor\Inc\PuzzlePlatform\PuzzlePlatformGameMode.generated.h
+C:\Users\ehdgu\Dev\WhatsUp-Unreal\PuzzlePlatform\Source\PuzzlePlatform\PuzzlePlatformCharacter.h
+C:\UE-4.27.2-release\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\UE-4.27.2-release\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\UE-4.27.2-release\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\UE-4.27.2-release\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\UE-4.27.2-release\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\UE-4.27.2-release\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\ehdgu\Dev\WhatsUp-Unreal\PuzzlePlatform\Intermediate\Build\Win64\UE4Editor\Inc\PuzzlePlatform\PuzzlePlatformCharacter.generated.h

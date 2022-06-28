@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BattleRoyale-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UE-4.27.2-release\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\Users\ehdgu\Dev\WhatsUp-Unreal\BattleRoyale\Intermediate\Build\Win64\UE4Editor\DebugGame\BattleRoyale\BattleRoyale.cpp.obj"
+"C:\Users\ehdgu\Dev\WhatsUp-Unreal\BattleRoyale\Intermediate\Build\Win64\UE4Editor\DebugGame\BattleRoyale\BattleRoyaleGameModeBase.cpp.obj"
+"C:\Users\ehdgu\Dev\WhatsUp-Unreal\BattleRoyale\Intermediate\Build\Win64\UE4Editor\DebugGame\BattleRoyale\BattleRoyale.init.gen.cpp.obj"
+"C:\Users\ehdgu\Dev\WhatsUp-Unreal\BattleRoyale\Intermediate\Build\Win64\UE4Editor\DebugGame\BattleRoyale\BattleRoyaleGameModeBase.gen.cpp.obj"
+"C:\UE-4.27.2-release\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\Users\ehdgu\Dev\WhatsUp-Unreal\BattleRoyale\Intermediate\Build\Win64\UE4Editor\DebugGame\BattleRoyale\UE4Editor-BattleRoyale-Win64-DebugGame.lib"

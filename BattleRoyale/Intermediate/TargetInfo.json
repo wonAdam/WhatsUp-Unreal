@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BattleRoyale",
+			"Path": "C:\\Users\\ehdgu\\Dev\\WhatsUp-Unreal\\BattleRoyale\\Source\\BattleRoyale.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BattleRoyaleEditor",
+			"Path": "C:\\Users\\ehdgu\\Dev\\WhatsUp-Unreal\\BattleRoyale\\Source\\BattleRoyaleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

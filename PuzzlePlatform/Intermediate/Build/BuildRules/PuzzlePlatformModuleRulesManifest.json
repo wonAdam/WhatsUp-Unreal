@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ehdgu\\Dev\\WhatsUp-Unreal\\PuzzlePlatform\\Source\\PuzzlePlatform\\PuzzlePlatform.Build.cs",
+		"C:\\Users\\ehdgu\\Dev\\WhatsUp-Unreal\\PuzzlePlatform\\Source\\PuzzlePlatform.Target.cs",
+		"C:\\Users\\ehdgu\\Dev\\WhatsUp-Unreal\\PuzzlePlatform\\Source\\PuzzlePlatformEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

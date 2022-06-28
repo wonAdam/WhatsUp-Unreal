@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PuzzlePlatform",
+			"Path": "C:\\Users\\ehdgu\\Dev\\WhatsUp-Unreal\\PuzzlePlatform\\Source\\PuzzlePlatform.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PuzzlePlatformEditor",
+			"Path": "C:\\Users\\ehdgu\\Dev\\WhatsUp-Unreal\\PuzzlePlatform\\Source\\PuzzlePlatformEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

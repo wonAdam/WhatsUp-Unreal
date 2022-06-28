@@ -1,0 +1,2 @@
+C:\Users\ehdgu\Dev\WhatsUp-Unreal\PuzzlePlatform\Intermediate\Build\Win64\UE4Editor\DebugGame\PuzzlePlatform\Definitions.PuzzlePlatform.h
+C:\Users\ehdgu\Dev\WhatsUp-Unreal\PuzzlePlatform\Source\PuzzlePlatform\PuzzlePlatform.h

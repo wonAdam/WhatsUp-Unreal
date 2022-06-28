@@ -1,0 +1,9 @@
+C:\Users\ehdgu\Dev\WhatsUp-Unreal\BattleRoyale\Intermediate\Build\Win64\UE4Editor\DebugGame\BattleRoyale\Definitions.BattleRoyale.h
+C:\UE-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\UE-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\ehdgu\Dev\WhatsUp-Unreal\BattleRoyale\Source\BattleRoyale/BattleRoyaleGameModeBase.h
+C:\UE-4.27.2-release\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\UE-4.27.2-release\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\UE-4.27.2-release\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\UE-4.27.2-release\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\ehdgu\Dev\WhatsUp-Unreal\BattleRoyale\Intermediate\Build\Win64\UE4Editor\Inc\BattleRoyale\BattleRoyaleGameModeBase.generated.h

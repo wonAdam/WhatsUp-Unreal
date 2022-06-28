@@ -1,0 +1,3 @@
+C:\Users\ehdgu\Dev\WhatsUp-Unreal\BattleRoyale\Intermediate\Build\Win64\UE4Editor\DebugGame\BattleRoyale\Definitions.BattleRoyale.h
+C:\UE-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\UE-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

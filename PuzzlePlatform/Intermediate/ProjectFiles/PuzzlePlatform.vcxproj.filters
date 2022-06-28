@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PuzzlePlatform.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{58B63B50-A87D-421B-9876-96189890A573}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PuzzlePlatform.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PuzzlePlatformEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A8C3D4EA-F165-4785-B453-C3BE1DEB44C3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PuzzlePlatform">
+      <UniqueIdentifier>{215677F7-6BD1-47C3-809A-F38D3C771A78}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PuzzlePlatform\MovingPlatform.cpp">
+      <Filter>Source\PuzzlePlatform</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PuzzlePlatform\MovingPlatform.h">
+      <Filter>Source\PuzzlePlatform</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PuzzlePlatform\PuzzlePlatform.Build.cs">
+      <Filter>Source\PuzzlePlatform</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PuzzlePlatform\PuzzlePlatform.cpp">
+      <Filter>Source\PuzzlePlatform</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PuzzlePlatform\PuzzlePlatform.h">
+      <Filter>Source\PuzzlePlatform</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PuzzlePlatform\PuzzlePlatformCharacter.cpp">
+      <Filter>Source\PuzzlePlatform</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PuzzlePlatform\PuzzlePlatformCharacter.h">
+      <Filter>Source\PuzzlePlatform</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PuzzlePlatform\PuzzlePlatformGameMode.cpp">
+      <Filter>Source\PuzzlePlatform</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PuzzlePlatform\PuzzlePlatformGameMode.h">
+      <Filter>Source\PuzzlePlatform</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

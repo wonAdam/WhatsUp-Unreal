@@ -1,0 +1,2 @@
+C:\Users\ehdgu\Dev\WhatsUp-Unreal\BattleRoyale\Intermediate\Build\Win64\UE4Editor\DebugGame\BattleRoyale\Definitions.BattleRoyale.h
+C:\Users\ehdgu\Dev\WhatsUp-Unreal\BattleRoyale\Source\BattleRoyale\BattleRoyale.h

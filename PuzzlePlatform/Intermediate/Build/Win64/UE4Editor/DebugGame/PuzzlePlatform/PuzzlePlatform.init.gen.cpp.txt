@@ -1,0 +1,3 @@
+C:\Users\ehdgu\Dev\WhatsUp-Unreal\PuzzlePlatform\Intermediate\Build\Win64\UE4Editor\DebugGame\PuzzlePlatform\Definitions.PuzzlePlatform.h
+C:\UE-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\UE-4.27.2-release\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
